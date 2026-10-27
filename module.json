@@ -1,0 +1,8 @@
+
+{
+  "name": "Helltaker",
+  "description": "A puzzle module that you can play. First BPP module",
+  "author": "Vanripper",
+  "version": "1.0",
+  "html": "https://cdn.jsdelivr.net/gh/wasm-rip/wasm.rip/files/Helltaker/helltaker.html"
+}
