@@ -1,0 +1,8 @@
+{
+  "name": "Retrobowl",
+  "description": "Play the classic retro football game!",
+  "author": "unknown",
+  "version": "1.0",
+  "image": "https://iili.io/BGiJEru.png",
+  "html": "https://cdn.jsdelivr.net/gh/rains-im/BrightPath/retrobowl.html"
+}

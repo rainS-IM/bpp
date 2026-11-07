@@ -1,0 +1,8 @@
+{
+  "name": "Slope",
+  "description": "Try not to fall off the ramp while going downhill! You are the ball.",
+  "author": "Rob Kay",
+  "version": "1.0",
+  "image": "https://iili.io/BLjWhcQ.png",
+  "html": "https://cdn.jsdelivr.net/gh/rains-im/BrightPath/Slope.html"
+}
