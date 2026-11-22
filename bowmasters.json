@@ -1,0 +1,8 @@
+{
+  "name": "Bowmasters",
+  "description": "Example description.",
+  "author": "example",
+  "version": "1.0",
+  "image": "https://example.com",
+  "html": "https://raw.githubusercontent.com/gn-math/html/refs/heads/main/0-fix2.html"
+}
