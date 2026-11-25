@@ -1,8 +1,8 @@
 {
   "name": "Polytrack",
-  "description": "Drive your car through the track and try to reach the finish line without falling off.",
+  "description": "A car game where you drive. Don't die i guess",
   "author": "Kodub",
   "version": "0.5.2",
-  "image": "https://iili.io/BGi5xN2.png",
+  "image": "https://raw.githubusercontent.com/rainS-IM/Extra/refs/heads/main/polytrack.jpg",
   "html": "https://raw.githubusercontent.com/rainS-IM/BrightPath/refs/heads/main/Poly%20Track.html"
 }

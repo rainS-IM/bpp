@@ -3,6 +3,6 @@
   "description": "Try not to fall off the ramp while going downhill! You are the ball.",
   "author": "Rob Kay",
   "version": "1.0",
-  "image": "https://iili.io/BLjWhcQ.png",
+  "image": "https://raw.githubusercontent.com/rainS-IM/Extra/refs/heads/main/slope.jpg",
   "html": "https://cdn.jsdelivr.net/gh/rains-im/BrightPath/Slope.html"
 }

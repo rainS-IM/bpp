@@ -1,8 +1,8 @@
 {
   "name": "Retrobowl",
   "description": "Play the classic retro football game!",
-  "author": "unknown",
+  "author": "Simon Read",
   "version": "1.0",
-  "image": "https://iili.io/BGiJEru.png",
+  "image": "https://raw.githubusercontent.com/rainS-IM/Extra/refs/heads/main/retrobowl.jpg",
   "html": "https://cdn.jsdelivr.net/gh/rains-im/BrightPath/retrobowl.html"
 }

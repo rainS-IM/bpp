@@ -1,8 +1,8 @@
 {
   "name": "Bowmasters",
-  "description": "Example description.",
-  "author": "example",
+  "description": "Try and shoot the other person with accuracy.",
+  "author": "Playgendary",
   "version": "1.0",
-  "image": "https://example.com",
+  "image": "https://raw.githubusercontent.com/rainS-IM/Extra/refs/heads/main/bowmasters.webp",
   "html": "https://raw.githubusercontent.com/gn-math/html/refs/heads/main/0-fix2.html"
 }
