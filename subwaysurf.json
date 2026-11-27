@@ -1,0 +1,9 @@
+
+{
+  "name": "Subway Surfers",
+  "description": "Jump on trains in the subway and don't get hit",
+  "author": "SYBO Games",
+  "version": "1.0",
+  "image": "https://raw.githubusercontent.com/rainS-IM/bppimages/refs/heads/main/subwaysurfers.jpg",
+  "html": "https://raw.githubusercontent.com/bubbls/subwaysurfersmerge/refs/heads/main/html/barcelona.html"
+}
